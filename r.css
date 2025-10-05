@@ -159,9 +159,9 @@ h1{
         margin: 10px 0;
     }
     #scoreBoard {
-          justify-content: center;
-        align-items: center;
         display: flex;
+         justify-content: center;
+        align-items: center;
         font-size: 0.85rem;
 
         height: 25px;
@@ -172,6 +172,7 @@ h1{
     font-size: 1.5rem;
 }
 }
+
 
 
 
