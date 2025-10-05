@@ -155,19 +155,20 @@ h1{
         margin: 0 5px;
     }
     #resultDisplay {
-        font-size: 4rem;
+        font-size: 3rem;
         margin: 10px 0;
     }
     #scoreBoard {
-        font-size: 1rem;
+        font-size: 0.95rem;
         height: 25px;
-        max-width: 500px;
-        padding: 2px;
+        width: 95%;
+        padding: 3px;
     }
     #playerDisplay, #computerDisplay{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 }
+
 
 
 
